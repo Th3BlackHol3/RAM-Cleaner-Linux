@@ -25,7 +25,7 @@ A zero-dependency Linux memory management script designed to free up system memo
 Clone the repo, set permissions, and run:
 
 ```
-git clone https://github.com/your-username/RAMCleaner.git
+git clone https://github.com/Th3BlackHol3/RAM-Cleaner-Linux.git
 cd RAMCleaner
 chmod +x RAMCleaner.sh
 sudo ./RAMCleaner.sh

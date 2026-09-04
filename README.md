@@ -34,7 +34,7 @@ sudo ./RAMCleaner.sh
 **Option 2: Run via curl (No repository clone needed)**
 
 ```
-curl -sSL https://raw.githubusercontent.com/Th3BlackHol3/RAM-Cleaner-Linux/RAMCleaner.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/Th3BlackHol3/RAM-Cleaner-Linux/refs/heads/main/RAMCleaner.sh | sudo bash
 ```
 
 # Thanks

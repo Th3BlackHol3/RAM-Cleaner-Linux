@@ -37,4 +37,8 @@ sudo ./RAMCleaner.sh
 curl -sSL https://raw.githubusercontent.com/Th3BlackHol3/RAM-Cleaner-Linux/refs/heads/main/RAMCleaner.sh | sudo bash
 ```
 
+# ⚠️ Disclaimer
+
+Use at your own risk. This script executes low-level kernel memory management commands with root privileges. The author assumes no responsibility for system freezes, process terminations (OOM kills), or performance drops resulting from its use. Always ensure available physical RAM exceeds used swap before running.
+
 # Thanks
